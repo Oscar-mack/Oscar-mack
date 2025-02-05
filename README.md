@@ -1,16 +1,17 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**Oscar-mack/Oscar-mack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Emilio, un estudiante entusiasta con ganas de aprender de programacion, redes, bases de datos y demas. Actualmente estoy estudiando en la Universidad
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías que utilizo
+
+- Lenguajes: C++, SQL, JAVA
+- Herramientas: Eclipse, Sql server 
+
+### Contacto
+
+Puedes enviarme un correo electrónico a oscarinlop2441@gamil.com 
+
+⚡ ¡Dato curioso!: Soy muy curioso, asi que siempre tengo ganas de investigar de mas para estar preparado en todo momneto 
+
+¡Gracias por visitar mi perfil!
